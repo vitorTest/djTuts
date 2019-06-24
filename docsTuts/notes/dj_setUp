@@ -1,0 +1,18 @@
+Install pip:
+	sudo apt-get install python3-pip
+
+Then install pip3:
+	sudo pip3 -H install virtualenv
+
+Create virtualenv using python3:
+	virtualenv -p python3 env
+
+Activating and deactiving:
+	source env/bin/activate
+	deactivate
+
+In activated env:
+	pip3 install Django
+
+Starting the project:
+	django-admin startproject testsite

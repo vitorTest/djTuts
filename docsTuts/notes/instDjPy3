@@ -1,6 +1,0 @@
-Install pip3:
-	sudo apt-get install python3-pip
-
-Install Django:
-	sudo pip3 install Django
-

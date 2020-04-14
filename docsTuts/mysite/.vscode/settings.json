@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/vitor/.asdf/shims/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.banditEnabled": true
+}
